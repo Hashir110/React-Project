@@ -3,7 +3,6 @@
     "env": {
       "NODE_VERSION": "16.x"
     },
-
     "outputDirectory": "dist"
   }
 }
