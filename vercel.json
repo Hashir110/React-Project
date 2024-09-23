@@ -3,7 +3,7 @@
     "env": {
       "NODE_VERSION": "16.x"
     },
-    "buildCommand": "vite build",
+    
     "outputDirectory": "dist"
   }
 }
