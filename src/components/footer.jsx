@@ -5,7 +5,8 @@ const Footer = () => {
         <div className="border py-5 bg-gray-200 flex flex-col sm:flex-row justify-between px-4 sm:px-10 md:px-20 lg:px-72">
           <div className="text-center sm:text-left">
             <p>
-              @2024 Muhammad Hashir Shaikh <span>All Rights Reserved</span>
+              Copyright &copy;2024 | Muhammad Hashir Shaikh{" "}
+              <span>All Rights Reserved</span>
             </p>
           </div>
           <div className="space-x-0 sm:space-x-5 mt-4 sm:mt-0 flex flex-col sm:flex-row items-center">

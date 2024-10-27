@@ -1,5 +1,5 @@
 import { useRef, useEffect } from "react";
-import bannerImage from "../assets/images/Dp.jpg";
+import bannerImage from "../assets/images/me.jpg";
 import bannerBackground from "../assets/images/banner_wallpaper.svg";
 import Typed from "typed.js";
 
@@ -8,7 +8,7 @@ const Banner = () => {
 
   useEffect(() => {
     const typed = new Typed(el.current, {
-      strings: ["Frontend Developer", "Android Developer", "Backend Developer"], // Strings to display
+      strings: ["Frontend Developer", "Student", "Coder"], // Strings to display
       startDelay: 100,
       typeSpeed: 50,
       backSpeed: 10,
